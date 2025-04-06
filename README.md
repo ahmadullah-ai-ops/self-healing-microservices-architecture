@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# self-healing-microservices-architecture
+
+## self-healing-microservices-architecture
  demo project showcasing the design of a self-healing system using containerized microservices and AI-driven recovery mechanisms.
 =======
 # Self-Healing Microservices Architecture
