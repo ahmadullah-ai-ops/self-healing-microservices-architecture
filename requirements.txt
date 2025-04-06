@@ -1,0 +1,7 @@
+Flask
+requests
+pandas
+scikit-learn
+docker
+kubernetes
+
